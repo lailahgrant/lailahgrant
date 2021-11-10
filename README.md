@@ -1,5 +1,12 @@
 ### Hi there 👋
 
+# Lailah Grant here 🌼.
+`Love Tech 👩‍💻, contributing to open-source projeects(HTML, CSS, Reactjs) ✍️ and being part of environment conservation 🌳 .
+`
+#### I also installed this fun extension with good daily reads `daily.dev` and here's  my card.
+
+<a href="https://app.daily.dev/lailahgrant"><img src="https://api.daily.dev/devcards/ac4c8a38da244b9980d0f992ef29da08.png?r=6ck" width="400" alt="Lailah Grant's Dev Card"/></a>
+
 <!--
 **lailahgrant/lailahgrant** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
