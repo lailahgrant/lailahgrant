@@ -1,14 +1,12 @@
 ### Hi there 👋
 
 # Lailah Grant here 🌼.
-`Love Tech 👩‍💻, contributing to open-source projects (HTML, CSS, JavaScript, PHP) ✍️ and would like to be part of *3D Animation* community(ies).
+`Love Tech 👩‍💻, contributing to open-source projects (HTML, CSS, JavaScript, PHP, WordPress) ✍️ and part of the Crossroads Digital Multimedia LTD Uganda *3D Animation* community.
 `
 
-- 🔭 I’m currently working on `Game development` in `Lua`, `Python`, `Unity`, `Vanilla JavaScript`, and `Hardware IoT projects`.
-- 🌱 I’m currently learning `Game Development`, `3D Animations`, and `WordPress Plugin and Theme development`.
-- 👯 I’m looking to collaborate on `Python`, `Hardware IoT`, and `Game Development` projects.
-- 🤔 I’m looking for help with `Lua, Python, and Unity Game development projects`.
-- 💬 Ask me about `Robotics`, `IoT`. Well, I'm not the best but can share the little I know...
+- 🔭 Looking forward to continuously growing my `WordPress Plugin and Theme development` muscle.
+- 👩‍💻 I'm working on joining `Game development` communities using `Lua`, `Python`, `Unity`, `Vanilla JavaScript`, and `Hardware IoT projects` communities.
+- 🌱 I’m currently learning `3D Animations` using **Autodesk Maya**.
 
 #### I also installed this fun extension with good daily reads `daily.dev` and here's  my card.
 
@@ -18,6 +16,5 @@
 **lailahgrant/lailahgrant** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 - 📫 How to reach me: ...
-- 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
